@@ -10,7 +10,7 @@ Follow the documentation: https://facebook.github.io/react-native/docs/getting-s
 Choose "Building Project with Native Code" and follow the instructions to set dependencies and setting up the environment.
 You need not create a new application.
 
-Once you have set up the environment, clone this repository into your parent folder where the environment has been setup.
+Once you have set up the environment, clone this repository into the folder in which the environment has been setup.
 
 > git clone https://github.com/alpha2303/hasura-map-app.git
 
