@@ -11,6 +11,9 @@ Choose "Building Project with Native Code" and follow the instructions to set de
 You need not create a new application.
 
 Once you have set up the environment, clone this repository into your parent folder where the environment has been setup.
+
+> git clone https://github.com/alpha2303/hasura-map-app.git
+
 Go one folder inside, open a terminal and run the following command:
 
 > npm install
