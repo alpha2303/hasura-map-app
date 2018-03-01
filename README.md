@@ -29,4 +29,8 @@ To run the app on your device, install it manually, or just enter the following 
 
 > react-native run-android --variant=release
 
+If you're running it for ios then type:
+
+> react-native run-ios --variant=release
+
 Please let me know if any complications arise. Thank you.
