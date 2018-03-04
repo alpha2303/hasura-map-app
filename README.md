@@ -2,7 +2,7 @@
 
 This is a stand alone Reactnative map application using Python backend harnessing the power of Google Directions API
 
-# How to Use 
+# Setting Up
 
 Make sure you have react-native environment set up on your development system.
 
@@ -35,5 +35,14 @@ To run the app on your device, install it manually, or just enter the following 
 If you're running it for iOS then type:
 
 > react-native run-ios --variant=release
+
+# How to Use
+
+This app basically works on Google's Direction API with restriction for Android apps in place.
+Enter your Source and Destination Locations and the app automatically highlights the best possible routes, along with the distance covered as well and the travel duration.
+
+# Issues
+
+For now only the "Driving" mode of transit is working, further modes will be added as the extensions are made in future. Sorry for the inconvenience.
 
 Please let me know if any complications arise. Thank you.
