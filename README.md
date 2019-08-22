@@ -49,4 +49,5 @@ Please let me know if any complications arise. Thank you.
 
 # UI
 ![UI Image 1](Screenshot_MapApp_20180319-231353.png)
+![UI Image 2](Screenshot_MapApp_20180319-231224.png)
 
